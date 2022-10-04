@@ -1,4 +1,4 @@
-package com.dlddy.book.springboot;
+package com.dlddy.book.springboot.web;
 
 import com.dlddy.book.springboot.web.HelloController;
 import org.junit.Test;
