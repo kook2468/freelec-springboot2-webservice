@@ -1,5 +1,6 @@
 package com.dlddy.book.springboot.web.dto;
 
+import lombok.Getter;
 import org.junit.Test;
 
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
