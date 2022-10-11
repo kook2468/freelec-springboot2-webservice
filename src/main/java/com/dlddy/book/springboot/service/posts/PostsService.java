@@ -1,4 +1,4 @@
-package com.dlddy.book.springboot;
+package com.dlddy.book.springboot.service.posts;
 
 import com.dlddy.book.springboot.domain.posts.Posts;
 import com.dlddy.book.springboot.domain.posts.PostsRepository;

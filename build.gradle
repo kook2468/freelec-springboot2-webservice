@@ -40,6 +40,9 @@ dependencies {
     testImplementation('org.projectlombok:lombok')
     annotationProcessor('org.projectlombok:lombok')
     testAnnotationProcessor('org.projectlombok:lombok')
+    //mustache
+    implementation('org.springframework.boot:spring-boot-starter-mustache')
+    testImplementation('org.springframework.boot:spring-boot-starter-mustache')
     //init - springboot
     implementation('org.springframework.boot:spring-boot-starter-web')
     testImplementation('org.springframework.boot:spring-boot-starter-test')
